@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamborghini Centenario Roadster SDC
+* source:	https://sketchfab.com/3d-models/lamborghini-centenario-roadster-sdc-938d3e3642cf4ea895c62c2a4bf6fc08
+* author:	SDC PERFORMANCE (https://sketchfab.com/3Duae)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamborghini Centenario Roadster SDC" (https://sketchfab.com/3d-models/lamborghini-centenario-roadster-sdc-938d3e3642cf4ea895c62c2a4bf6fc08) by SDC PERFORMANCE (https://sketchfab.com/3Duae) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

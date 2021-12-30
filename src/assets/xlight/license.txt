@@ -1,0 +1,11 @@
+Model Information:
+* title:	NeonXStickAni
+* source:	https://sketchfab.com/3d-models/neonxstickani-7ca136a4ca8f44b689180be9902caeab
+* author:	Akabuki (https://sketchfab.com/Akabuki)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NeonXStickAni" (https://sketchfab.com/3d-models/neonxstickani-7ca136a4ca8f44b689180be9902caeab) by Akabuki (https://sketchfab.com/Akabuki) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
