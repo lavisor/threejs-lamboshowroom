@@ -1,4 +1,4 @@
-# ng-three-template
+# Threejs-Lamboshowroom
 
 [DEMO Here](https://lamboshowroom.netlify.app/)
 
